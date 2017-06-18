@@ -6,7 +6,7 @@
 
 * for the centroids model:
   1. run once "python generate_centroids.py" which can be found inside models/centroids/
-  2. run "python generate_centroids.py" which can be found inside models/centroids/
+  2. run "python centroids_model.py" which can be found inside models/centroids/
   3. the results will be created inside models/centroids/results
 * for the GRU model:
   1. run "python gru.py" which can be found inside models/gru/
